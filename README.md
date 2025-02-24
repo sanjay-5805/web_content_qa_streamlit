@@ -1,8 +1,10 @@
-##Web Content Q&A Tool:
+#Web Content Q&A Tool:
+-----------------------
 
 A Streamlit app that allows users to input URLs, ingest their content, and ask questions based on the scraped data using Langchain and OpenAI.
 
 #Install Dependencies :-
+------------------------
 
 streamlit
 langchain
@@ -24,7 +26,7 @@ Embeddings & Vector Storage: OpenAI Embeddings + FAISS
 Parsing: BeautifulSoup
 Environment Management: dotenv
 
- How It Works :
+ #How It Works :
  ---------------
 1️ Ingest URLs
 User Input: Enter URLs into the text area.
