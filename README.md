@@ -1,4 +1,5 @@
-#Web Content Q&A Tool
+##Web Content Q&A Tool:
+
 A Streamlit app that allows users to input URLs, ingest their content, and ask questions based on the scraped data using Langchain and OpenAI.
 
 #Install Dependencies :-
