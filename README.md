@@ -6,12 +6,12 @@ A Streamlit app that allows users to input URLs, ingest their content, and ask q
 #Install Dependencies :-
 ------------------------
 
-streamlit
-langchain
-langchain-community
-requests
-beautifulsoup
-openai
+1.streamlit
+2.langchain
+3.langchain-community
+4.requests
+5.beautifulsoup
+6.openai
 
 #set your own openai_api_key
 
@@ -20,11 +20,11 @@ streamlit run web_content_qa_streamlit.py
 
 #Tech Stack :
 --------------
-Frontend/UI: Streamlit
-Backend/Q&A: Langchain + OpenAI
-Embeddings & Vector Storage: OpenAI Embeddings + FAISS
-Parsing: BeautifulSoup
-Environment Management: dotenv
+1.Frontend/UI: Streamlit
+2.Backend/Q&A: Langchain + OpenAI
+3.Embeddings & Vector Storage: OpenAI Embeddings + FAISS
+4.Parsing: BeautifulSoup
+5.Environment Management: dotenv
 
  #How It Works :
  ---------------
